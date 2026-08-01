@@ -1,0 +1,5 @@
+Contact: https://www.pathai.com/vdp
+Contact: mailto:vdp@pathai.com
+Expires: 2030-12-31T11:59:00Z
+Policy: https://www.pathai.com/vdp
+Preferred-Languages: en

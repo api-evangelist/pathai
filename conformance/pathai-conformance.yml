@@ -1,0 +1,27 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.pathai.com/resources/pathai-earns-iso-27001-security-certification
+note: >-
+  PathAI has no public API surface (AISight Link is an enterprise partner/LIS
+  integration API with no published OpenAPI or developer portal), so no
+  API-level cross-cutting standards can be derived. This file captures the
+  published information-security compliance posture only.
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: >-
+    PathAI publicly announced ISO 27001 certification for its information
+    security management system.
+  source: https://www.pathai.com/resources/pathai-earns-iso-27001-security-certification
+- id: hipaa
+  conforms: true
+  evidence: >-
+    Vulnerability disclosure policy references handling of Protected Health
+    Information (PHI) under HIPAA.
+  source: https://www.pathai.com/vdp
+- id: gdpr
+  conforms: true
+  evidence: >-
+    Vulnerability disclosure policy references compliance with GDPR for
+    personal data.
+  source: https://www.pathai.com/vdp
